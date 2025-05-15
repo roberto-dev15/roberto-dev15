@@ -1,12 +1,11 @@
-<h1 align="center">A minha fé foi a única coisa capaz de me salvar. quero poder salvar outras pessoas com ela ✝️</h1>
+<h1 align="center">A minha fé foi a única coisa capaz de me salvar. Quero um dia poder salvar outras pessoas com ela ✝️</h1>
 
 ---
 
 ### 👋 E aí! Eu sou o Roberto!
 
-🎓 Estudante  
-🧠 Apaixonado por tecnologia e propósito  
-💬 "Tu, porém..." é mais que um tema, é estilo de vida
+🎓 Estudante do IFSC Xanxerê.
+💬 Uma vida sem propósito é uma vida vazia.
 
 ---
 
