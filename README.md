@@ -35,11 +35,10 @@
 
 ### 📊 GitHub Stats 
 
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuuser&show_icons=true&theme=radical)
+![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=roberto-dev15&show_icons=true&theme=radical)
 
 ---
 
-### 🙌 Versículo do dia (sugestão opcional):
 > *"Mas tu, porém, sê sóbrio em tudo, sofre as aflições, faze a obra de um evangelista, cumpre o teu ministério."*  
 > — 2 Timóteo 4:5
 
