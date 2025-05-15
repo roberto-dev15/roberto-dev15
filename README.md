@@ -5,6 +5,7 @@
 ### 👋 E aí! Eu sou o Roberto!
 
 🎓 Estudante do IFSC Xanxerê.
+
 💬 Uma vida sem propósito é uma vida vazia.
 
 ---
