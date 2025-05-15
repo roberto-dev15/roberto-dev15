@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">A minha fé foi a única coisa capaz de me salvar. quero poder salvar outras pessoas com ela ✝️</h1>
 
-<!--
-**roberto-dev15/roberto-dev15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👋 E aí! Eu sou o Roberto!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante  
+🧠 Apaixonado por tecnologia e propósito  
+💬 "Tu, porém..." é mais que um tema, é estilo de vida
+
+---
+
+### 💻 Tecnologias que uso
+
+#### 🚀 Conhecimento atual:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+</p>
+
+#### 📚 Estudando agora:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+</p>
+
+---
+
+### 📲 Onde me encontrar
+
+[![Instagram](https://img.shields.io/badge/@antoniorober__to-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/antoniorober_to)
+
+---
+
+### 📊 GitHub Stats 
+
+![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuuser&show_icons=true&theme=radical)
+
+---
+
+### 🙌 Versículo do dia (sugestão opcional):
+> *"Mas tu, porém, sê sóbrio em tudo, sofre as aflições, faze a obra de um evangelista, cumpre o teu ministério."*  
+> — 2 Timóteo 4:5
+
+---
+
