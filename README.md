@@ -2,7 +2,7 @@
 
 ---
 
-### 👋 E aí! Eu sou o Roberto!
+### 👋 E aí! Eu sou o Roberto (também chamado pé de foice)!
 
 🎓 Estudante do IFSC Xanxerê.
 
